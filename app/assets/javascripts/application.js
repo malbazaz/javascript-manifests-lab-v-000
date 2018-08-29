@@ -16,3 +16,5 @@
 //= require wrong_place_wrong_time
 //= require alert_maker
 //= require main 
+//= require hello_world 
+//= require doesn_nothing
