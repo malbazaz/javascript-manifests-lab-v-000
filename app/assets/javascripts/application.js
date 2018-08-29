@@ -13,7 +13,7 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require lib/assets/wrong_place_wrong_time
+//= require wrong_place_wrong_time
 //= require alert_maker
 //= require main
 //= require hello_world
